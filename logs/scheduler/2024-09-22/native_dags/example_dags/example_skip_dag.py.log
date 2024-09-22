@@ -1,0 +1,127 @@
+[2024-09-22T02:43:53.928+0000] {processor.py:186} INFO - Started process (PID=4476) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:43:53.928+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:43:53.931+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:53.931+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:43:53.940+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:43:54.062+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.061+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2024-09-22T02:43:54.075+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.075+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2024-09-22T02:43:54.086+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.085+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2024-09-22T02:43:54.102+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.102+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_skip_dag
+[2024-09-22T02:43:54.112+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.111+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_skip_dag
+[2024-09-22T02:43:54.121+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.121+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_skip_dag
+[2024-09-22T02:43:54.130+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.130+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_skip_dag
+[2024-09-22T02:43:54.131+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.131+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:43:54.144+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.143+0000] {dag.py:3252} INFO - Creating ORM DAG for example_skip_dag
+[2024-09-22T02:43:54.153+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:43:54.153+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:43:54.175+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.253 seconds
+[2024-09-22T02:45:01.595+0000] {processor.py:186} INFO - Started process (PID=4535) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:45:01.597+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:45:01.599+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:01.599+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:45:01.608+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:45:01.628+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:01.628+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:45:01.651+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:01.651+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:45:01.696+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
+[2024-09-22T02:45:54.952+0000] {processor.py:186} INFO - Started process (PID=4595) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:45:54.953+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:45:54.955+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:54.955+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:45:54.964+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:45:54.983+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:54.983+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:45:55.005+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:55.005+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:45:55.029+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
+[2024-09-22T02:46:44.824+0000] {processor.py:186} INFO - Started process (PID=4645) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:46:44.826+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:46:44.828+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:44.828+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:46:44.837+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:46:44.856+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:44.855+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:46:44.877+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:44.877+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:46:44.901+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2024-09-22T02:47:34.098+0000] {processor.py:186} INFO - Started process (PID=4698) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:47:34.099+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:47:34.102+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:47:34.101+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:47:34.111+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:47:34.130+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:47:34.130+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:47:34.152+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:47:34.152+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:47:34.175+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2024-09-22T02:48:26.405+0000] {processor.py:186} INFO - Started process (PID=4752) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:48:26.407+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:48:26.409+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:48:26.408+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:48:26.418+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:48:26.438+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:48:26.437+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:48:26.460+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:48:26.460+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:48:26.489+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2024-09-22T02:49:16.220+0000] {processor.py:186} INFO - Started process (PID=4804) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:49:16.221+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:49:16.224+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:49:16.223+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:49:16.233+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:49:16.252+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:49:16.252+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:49:16.274+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:49:16.274+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:49:16.299+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.085 seconds
+[2024-09-22T02:50:06.309+0000] {processor.py:186} INFO - Started process (PID=4858) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:50:06.311+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:50:06.313+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:06.313+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:50:06.322+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:50:06.341+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:06.341+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:50:06.363+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:06.363+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:50:06.387+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2024-09-22T02:50:54.201+0000] {processor.py:186} INFO - Started process (PID=4915) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:50:54.202+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:50:54.204+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:54.204+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:50:54.213+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:50:54.232+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:54.232+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:50:54.254+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:54.254+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:50:54.277+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2024-09-22T02:51:42.993+0000] {processor.py:186} INFO - Started process (PID=4964) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:51:42.995+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:51:42.997+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:42.997+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:51:43.006+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:51:43.026+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:43.026+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:51:43.048+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:43.047+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:51:43.071+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
+[2024-09-22T02:52:32.430+0000] {processor.py:186} INFO - Started process (PID=5015) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:52:32.432+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:52:32.434+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:52:32.434+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:52:32.443+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:52:32.464+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:52:32.463+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:52:32.487+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:52:32.486+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:52:32.511+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.087 seconds
+[2024-09-22T02:53:23.235+0000] {processor.py:186} INFO - Started process (PID=5067) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:53:23.237+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:53:23.239+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:53:23.238+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:53:23.248+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:53:23.267+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:53:23.266+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:53:23.288+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:53:23.288+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:53:23.314+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.085 seconds
+[2024-09-22T02:54:10.467+0000] {processor.py:186} INFO - Started process (PID=5118) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:54:10.469+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:54:10.471+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:54:10.471+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:54:10.480+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:54:10.499+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:54:10.499+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:54:10.521+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:54:10.520+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:54:10.545+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
+[2024-09-22T02:55:00.586+0000] {processor.py:186} INFO - Started process (PID=5170) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:55:00.588+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:55:00.590+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:00.589+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:55:00.599+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:55:00.618+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:00.618+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:55:00.639+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:00.639+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:55:00.662+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2024-09-22T02:55:49.800+0000] {processor.py:186} INFO - Started process (PID=5227) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:55:49.801+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:55:49.803+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:49.803+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:55:49.813+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:55:49.832+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:49.832+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:55:49.854+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:49.854+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:55:49.879+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2024-09-22T02:56:38.844+0000] {processor.py:186} INFO - Started process (PID=5277) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:56:38.845+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:56:38.848+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:38.847+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:56:38.857+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:56:38.876+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:38.876+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:56:38.898+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:38.898+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:56:38.921+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2024-09-22T02:57:30.671+0000] {processor.py:186} INFO - Started process (PID=5329) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:57:30.673+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-22T02:57:30.675+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:57:30.675+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:57:30.685+0000] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-22T02:57:30.706+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:57:30.706+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:57:30.728+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:57:30.728+0000] {dag.py:4156} INFO - Setting next_dagrun for example_skip_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T02:57:30.752+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_skip_dag.py took 0.087 seconds

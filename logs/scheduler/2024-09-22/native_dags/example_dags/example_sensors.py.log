@@ -1,0 +1,120 @@
+[2024-09-22T02:44:02.712+0000] {processor.py:186} INFO - Started process (PID=4483) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:44:02.713+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:44:02.715+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.715+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:44:02.730+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:44:02.859+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.859+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_sensors
+[2024-09-22T02:44:02.874+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.874+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:example_sensors
+[2024-09-22T02:44:02.887+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.887+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_sensors
+[2024-09-22T02:44:02.904+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.904+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_sensors
+[2024-09-22T02:44:02.915+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.915+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_sensors
+[2024-09-22T02:44:02.926+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.926+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_sensors
+[2024-09-22T02:44:02.936+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.936+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_sensors
+[2024-09-22T02:44:02.937+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.937+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:44:02.949+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.949+0000] {dag.py:3252} INFO - Creating ORM DAG for example_sensors
+[2024-09-22T02:44:02.950+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:44:02.950+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:44:02.973+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.267 seconds
+[2024-09-22T02:45:08.376+0000] {processor.py:186} INFO - Started process (PID=4545) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:45:08.377+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:45:08.380+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:08.379+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:45:08.392+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:45:08.418+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:08.418+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:45:08.432+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:45:08.432+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:45:08.457+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.087 seconds
+[2024-09-22T02:46:02.398+0000] {processor.py:186} INFO - Started process (PID=4602) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:46:02.400+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:46:02.402+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:02.401+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:46:02.414+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:46:02.439+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:02.439+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:46:02.453+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:02.453+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:46:02.478+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.086 seconds
+[2024-09-22T02:46:50.868+0000] {processor.py:186} INFO - Started process (PID=4652) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:46:50.870+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:46:50.872+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:50.872+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:46:50.884+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:46:50.908+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:50.908+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:46:50.922+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:46:50.921+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:46:50.953+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.091 seconds
+[2024-09-22T02:47:41.506+0000] {processor.py:186} INFO - Started process (PID=4705) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:47:41.507+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:47:41.509+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:47:41.509+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:47:41.522+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:47:41.546+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:47:41.545+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:47:41.559+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:47:41.559+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:47:41.582+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.083 seconds
+[2024-09-22T02:48:33.123+0000] {processor.py:186} INFO - Started process (PID=4759) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:48:33.124+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:48:33.127+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:48:33.126+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:48:33.139+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:48:33.164+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:48:33.163+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:48:33.177+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:48:33.177+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:48:33.200+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.084 seconds
+[2024-09-22T02:49:23.622+0000] {processor.py:186} INFO - Started process (PID=4811) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:49:23.624+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:49:23.626+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:49:23.626+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:49:23.638+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:49:23.663+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:49:23.663+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:49:23.676+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:49:23.676+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:49:23.702+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.086 seconds
+[2024-09-22T02:50:22.018+0000] {processor.py:186} INFO - Started process (PID=4875) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:50:22.020+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:50:22.022+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:22.022+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:50:22.035+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:50:22.060+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:22.060+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:50:22.074+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:50:22.073+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:50:22.100+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.087 seconds
+[2024-09-22T02:51:09.758+0000] {processor.py:186} INFO - Started process (PID=4931) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:51:09.760+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:51:09.762+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:09.762+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:51:09.775+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:51:09.799+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:09.799+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:51:09.813+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:09.813+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:51:09.836+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.084 seconds
+[2024-09-22T02:51:59.844+0000] {processor.py:186} INFO - Started process (PID=4982) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:51:59.845+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:51:59.847+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:59.847+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:51:59.860+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:51:59.885+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:59.885+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:51:59.900+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:51:59.899+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:51:59.923+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.085 seconds
+[2024-09-22T02:52:49.111+0000] {processor.py:186} INFO - Started process (PID=5031) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:52:49.113+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:52:49.115+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:52:49.115+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:52:49.128+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:52:49.153+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:52:49.153+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:52:49.167+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:52:49.166+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:52:49.193+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.088 seconds
+[2024-09-22T02:53:38.809+0000] {processor.py:186} INFO - Started process (PID=5085) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:53:38.813+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:53:38.815+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:53:38.815+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:53:38.828+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:53:38.852+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:53:38.852+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:53:38.866+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:53:38.865+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:53:38.889+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.086 seconds
+[2024-09-22T02:54:28.321+0000] {processor.py:186} INFO - Started process (PID=5136) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:54:28.322+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:54:28.325+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:54:28.324+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:54:28.337+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:54:28.361+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:54:28.361+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:54:28.375+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:54:28.374+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:54:28.399+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.084 seconds
+[2024-09-22T02:55:17.770+0000] {processor.py:186} INFO - Started process (PID=5191) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:55:17.772+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:55:17.774+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:17.773+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:55:17.787+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:55:17.811+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:17.811+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:55:17.825+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:55:17.825+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:55:17.848+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.085 seconds
+[2024-09-22T02:56:07.739+0000] {processor.py:186} INFO - Started process (PID=5244) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:56:07.740+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:56:07.742+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:07.742+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:56:07.755+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:56:07.780+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:07.780+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:56:07.793+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:07.793+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:56:07.817+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.084 seconds
+[2024-09-22T02:56:56.121+0000] {processor.py:186} INFO - Started process (PID=5295) to work on /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:56:56.123+0000] {processor.py:914} INFO - Processing file /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2024-09-22T02:56:56.125+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:56.125+0000] {dagbag.py:587} INFO - Filling up the DagBag from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:56:56.138+0000] {processor.py:925} INFO - DAG(s) 'example_sensors' retrieved from /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py
+[2024-09-22T02:56:56.162+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:56.162+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-22T02:56:56.175+0000] {logging_mixin.py:190} INFO - [2024-09-22T02:56:56.175+0000] {dag.py:4156} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2024-09-22T02:56:56.212+0000] {processor.py:208} INFO - Processing /home/ubuntu/endtoendairflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_sensors.py took 0.096 seconds
