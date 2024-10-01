@@ -7,7 +7,7 @@ import pandas as pd
 import s3fs
 
 def run_youtube_etl():
-  DEVELOPER_KEY = "AIzaSyA08X5ZKJFbRNn5RQdMIX-0O5euTgeVp3A"
+  DEVELOPER_KEY = " "
   VIDEO_ID = "CFDCurqOERU"
   youtube = googleapiclient.discovery.build("youtube", "v3", developerKey=DEVELOPER_KEY)
 
